@@ -8,3 +8,5 @@ Part of the training data is taken from:
 2. https://github.com/garythung/trashnet
 3. https://github.com/AgaMiko/waste-datasets-review
 4. https://github.com/arthur-cen/smartTrashBin/tree/master/data
+
+The project is unfinished: a knn classifier was supposed to be used with all the training data. The manual classifier only makes use of the test data. 
