@@ -1,5 +1,5 @@
 # ComputerVisionMiniProject
-A manual classifier that distinguishes between three different classes of the same category. Category: garbabe, classes: empty can, plastic bottle, cardboard.
+A manual classifier that distinguishes between three different classes of the same category. Category: garbabe, classes: empty can, plastic bottle, cardboard. The project makes use of functions that work with multiple images at a time, probably not the best approach for a larger scale project, but it served as a very good exercise. This classifier does not work at all times, and therefore, can only be used as inspiration rather than for a more serious task. 
 
 This mini project is part of the Robot Vision course at Aalborg University.
 
